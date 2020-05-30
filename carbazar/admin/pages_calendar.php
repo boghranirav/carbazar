@@ -1,0 +1,10 @@
+﻿<?php
+include("page_master.php");
+?>
+<title>hello</title>
+<?php
+include("page_master1.php");
+?>
+<?php
+include("page_master2.php");
+?>

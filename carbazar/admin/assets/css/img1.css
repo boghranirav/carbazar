@@ -1,0 +1,22 @@
+.image{
+position:relative;
+}
+a div{
+position:absolute;
+top:0;
+left:0;
+width:10px;
+color:white;
+	font:bold;
+    letter-spacing:-1px;
+	
+	
+}
+h2 span{
+	color:white;
+	font:bold 24px/45px Helvetica,Sans-Selrif;
+    letter-spacing:-1px;
+	background:rgb(0,0,0);
+	
+padding:10px;	
+}

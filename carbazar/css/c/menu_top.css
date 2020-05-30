@@ -1,0 +1,13 @@
+body {
+    font: 13px sans-serif;
+}
+#stickyheader {
+    width: 100%;
+    height: 40px;
+    background:black;
+    color:white;
+    margin-bottom: 10px;
+}
+#unstickyheader {
+    margin-bottom: 15px;
+}

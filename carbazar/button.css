@@ -1,0 +1,31 @@
+.button {
+   border-top: 1px solid #97f7a5;
+   background: #658ad6;
+   background: -webkit-gradient(linear, left top, left bottom, from(#753e9c), to(#658ad6));
+   background: -webkit-linear-gradient(top, #753e9c, #658ad6);
+   background: -moz-linear-gradient(top, #753e9c, #658ad6);
+   background: -ms-linear-gradient(top, #753e9c, #658ad6);
+   background: -o-linear-gradient(top, #753e9c, #658ad6);
+   padding: 7px 14px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #edf7ea;
+   font-size: 20px;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #a1d1d4;
+   background: #a1d1d4;
+   color: #a666a6;
+   }
+.button:active {
+   border-top-color: #b1c7bb;
+   background: #b1c7bb;
+   }
